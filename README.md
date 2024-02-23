@@ -1,19 +1,23 @@
-# Titanic Machine Learning Competition
+# 🚢 Titanic Machine Learning Competition
 
-![Titanic](https://img.shields.io/badge/Project-Titanic-orange?style=for-the-badge)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/farhakouser)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/farhakousar16)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github)](https://github.com/Farhakousar1601)
+![Titanic](https://img.shields.io/badge/Project-Titanic-orange?style=plastic)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Follow-blue?style=plastic&logo=kaggle)](https://www.kaggle.com/farhakouser)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=plastic&logo=linkedin)](https://www.linkedin.com/in/farhakousar16)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=plastic&logo=github)](https://github.com/Farhakousar1601)
 
 ## :rocket: Overview
-Welcome to my Titanic Machine Learning competition project! This repository contains my solution for the Titanic dataset using advanced machine learning techniques.
+Welcome to my Titanic Machine Learning competition project! This repository contains my solution for the [Titanic Kaggle competition](https://www.kaggle.com/competitions/titanic/overview). Whether you're a beginner or experienced, this project is designed to help you understand machine learning and data science techniques.
+
+## :information_source: Kaggle Competition Details
+- **Competition Link:** [Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview)
+- **Objective:** Predict the survival of passengers on the Titanic based on provided data.
 
 ## :file_folder: Repository Contents
-- **notebooks/**: Jupyter notebooks with data analysis, feature engineering, and model training.
+- **notebooks/**: Jupyter notebooks with step-by-step analysis, feature engineering, and model training.
 - **data/**: Dataset files.
-- **images/**: Images used in the notebooks.
+- **images/**: Visualizations and images used in the notebooks.
 
-## :computer: Getting Started
+## :computer: Getting Started for Beginners
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Farhakousar1601/titanic_ml_my_first_competition_kaggle.git
@@ -22,12 +26,14 @@ Welcome to my Titanic Machine Learning competition project! This repository cont
     ```bash
     cd titanic_ml_my_first_competition_kaggle
     ```
-3. **Explore the Jupyter notebooks in the `notebooks/` directory.**
+3. **Follow the Kaggle Competition Link:** [Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview)
+4. **Join the Competition:**
+    - Click on "Join Competition" to participate.
+    - Download the dataset from the "Data" tab on the competition page.
 
-## 🙋‍♀️ Connect with Me
-- [Kaggle Profile](https://www.kaggle.com/farhakouser)
-- [LinkedIn Profile](https://www.linkedin.com/in/farhakousar16)
-- [GitHub Profile](https://github.com/Farhakousar1601)
+5. **Start the Jupyter Notebooks:**
+    - Open the Jupyter notebooks in the `notebooks/` directory.
+    - Follow the instructions and code provided in the notebooks to analyze the Titanic dataset and develop machine learning models.
 
 ## :sparkles: Project Highlights
 - Utilized advanced machine learning algorithms for accurate predictions.
@@ -52,4 +58,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-Feel free to connect with me on Kaggle, LinkedIn, and GitHub to stay updated on my projects!
+👉 **Access the Kaggle Kernel [here](https://www.kaggle.com/code/farhakouser/titanic).**
+
+Feel free to connect with me on Kaggle, LinkedIn, and GitHub for more updates!
